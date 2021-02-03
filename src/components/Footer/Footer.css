@@ -1,0 +1,26 @@
+.footer{
+    display: flex;
+    align-items: center;
+    background-color: #1c2237;
+    text-decoration-color: #fff;
+}
+
+
+.footer-text{
+    word-wrap:break-word;
+    text-align: center;
+    width: 100%;
+    color: #fff;
+}
+
+.footer-logo {
+  height: 30px;
+  margin-left: 6px;
+}
+  
+  .social-media {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+  }

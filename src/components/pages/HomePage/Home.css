@@ -1,0 +1,31 @@
+.HomePage {
+    background-color: rgb(124, 124, 124);
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.text-area {
+    align-items: center;
+    text-align: center;
+    width: 80%;
+    height: auto;
+    background-color: rgb(140, 88, 189);
+    border-color: #1c2237;
+    border-style: outset;
+}
+
+.title-home{
+    margin-top: 70px;
+    margin-bottom: 70px;
+    
+}
+
+.img-home{
+    width:35%;
+}
+
+.home-text{
+    margin: 5%;
+}

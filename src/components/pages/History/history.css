@@ -1,0 +1,35 @@
+.history-page {
+    background-color: rgb(124, 124, 124);
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.history-text-area {
+    align-items: center;
+    text-align: center;
+    width: 80%;
+    height: auto;
+    background-color: rgb(140, 88, 189);
+    border-color: #1c2237;
+    border-style: outset;
+}
+
+.title-history{
+    margin-top: 70px;
+    margin-bottom: 70px;
+    letter-spacing: 5px;
+}
+
+.img-history{
+    width:35%;
+    border-color: black;
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: outset;
+}
+
+.history-text{
+    margin:1%;
+}
