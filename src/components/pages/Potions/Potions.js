@@ -12,7 +12,11 @@ import ajax from 'ajax'
 
 
 
+<<<<<<< HEAD
 class ListaPotionsAPI extends React.Component {s
+=======
+class ListaPotionsAPI extends React.Component {
+>>>>>>> 9df81442eee163278bf45780075ed6d95604f413
     constructor(props) {
       super(props);
       this.state = {
@@ -21,9 +25,15 @@ class ListaPotionsAPI extends React.Component {s
         items: []
       };
     }
+<<<<<<< HEAD
     
     componentDidMount() {
       fetch("https://merigold-potions.herokuapp.com/potions") //Link of an API to get new potions
+=======
+  
+    componentDidMount() {
+      fetch("https://merigold-potions.herokuapp.com/potions")
+>>>>>>> 9df81442eee163278bf45780075ed6d95604f413
         .then(res => res.json())
         .then(
           (result) => {
@@ -43,15 +53,25 @@ class ListaPotionsAPI extends React.Component {s
     render() {
       const { error, isLoaded, items } = this.state;
       if (error) {
+<<<<<<< HEAD
         return <div/>;//<div>Error: {error.message}</div>;
       } else if (!isLoaded) {
         return <div/>//<div>Loading...</div>;
+=======
+        return <div>Error: {error.message}</div>;
+      } else if (!isLoaded) {
+        return <div>Loading...</div>;
+>>>>>>> 9df81442eee163278bf45780075ed6d95604f413
       } else {
         return (
             items.map(item => (
               <Potion potName={item.name} potDesc={item.description} img={item.img}/>
             ))
+<<<<<<< HEAD
             //Card creation of new potions after API data were get
+=======
+            
+>>>>>>> 9df81442eee163278bf45780075ed6d95604f413
         );
       }
     }
