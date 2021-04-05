@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Texturina:ital,wght@0,100;0,200;0,400;1,100;1,300&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Texturina', sans-serif;
+}
+
+.background{
+  background-color: black;
+  width: 100%;
+  height: 100%;
+}
