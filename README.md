@@ -1,3 +1,44 @@
+# Potions & Solutions - Project Presentation
+
+<div>This project were created using node.js and React with the purpose to understand better Its coding, the test on IFSP - web development was requesting an site to show up potions to a shop of potions, with 3 different pages to look up for, needed to be responsive and also needed to have a navbar, a main body and a footer.<br/>
+At the last, our teacher made a challenge of implementing an API that gets new potions to implement on our site, for that I was already fully setted(since I´ve created an generic component for the creation of the cards), I´ve just had to add AJAX for the Api consult and load of the parameters, and this is how my site became:<div/>
+<br><br> 	**At the end of this presentation there´s the text explaning how to run/create an React App**
+<div align="center">
+<img src="initial-Screen.png" alt="Inital screen">
+<br>
+This is the initial screen, I´ve made a generic text only to create this page.
+</div><br>
+
+<div align="center">
+<img src="potion-Screen.png" alt="Potions screen">
+<br>
+This is the page made for the potions that are being sold, all of the images were eddited by me as it give an unique simple theme, on click in button "Comparar" there´s a modal that opens and displays an confirmation question for the buy
+</div><br>
+
+<div align="center">
+<img src="potion-mobile-Screen.png" alt="Potions screen">
+<br>
+Here´s a print from the site in mobile mode, the navbar has a drawer where you can open and display the different pages that can be accessed
+</div><br>
+
+<div align="center">
+<img src="navbar-mobile-Screen.png" alt="Potions screen">
+<br>
+Here´s the "drawer" opened image 
+</div><br>
+
+<div align="center">
+<img src="history-mobile-Screen.png" alt="Potions screen">
+<br>
+Here´s the third page, where I´ve created an background story for the shop of potions
+</div><br>
+
+<div align="center">
+<img src="history-footer-Screen.png" alt="Potions screen">
+<br>
+And finaly, here´s the footer created for the website
+</div><br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
