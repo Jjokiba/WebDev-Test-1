@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/WebDev-Test-1/static/css/main.ad5b569c.chunk.css",
+    "main.js": "/WebDev-Test-1/static/js/main.dddeb22b.chunk.js",
+    "main.js.map": "/WebDev-Test-1/static/js/main.dddeb22b.chunk.js.map",
+    "runtime-main.js": "/WebDev-Test-1/static/js/runtime-main.440d335c.js",
+    "runtime-main.js.map": "/WebDev-Test-1/static/js/runtime-main.440d335c.js.map",
+    "static/js/2.1160409a.chunk.js": "/WebDev-Test-1/static/js/2.1160409a.chunk.js",
+    "static/js/2.1160409a.chunk.js.map": "/WebDev-Test-1/static/js/2.1160409a.chunk.js.map",
+    "index.html": "/WebDev-Test-1/index.html",
+    "static/css/main.ad5b569c.chunk.css.map": "/WebDev-Test-1/static/css/main.ad5b569c.chunk.css.map",
+    "static/js/2.1160409a.chunk.js.LICENSE.txt": "/WebDev-Test-1/static/js/2.1160409a.chunk.js.LICENSE.txt",
+    "static/media/cauldron.a042cfc8.png": "/WebDev-Test-1/static/media/cauldron.a042cfc8.png",
+    "static/media/potion-fortune.65083ec3.png": "/WebDev-Test-1/static/media/potion-fortune.65083ec3.png",
+    "static/media/potion-frog.d16086bc.png": "/WebDev-Test-1/static/media/potion-frog.d16086bc.png",
+    "static/media/potion-generic.7c664a69.png": "/WebDev-Test-1/static/media/potion-generic.7c664a69.png",
+    "static/media/potion-int.bf4e196e.png": "/WebDev-Test-1/static/media/potion-int.bf4e196e.png",
+    "static/media/potion-love.ff65026b.png": "/WebDev-Test-1/static/media/potion-love.ff65026b.png",
+    "static/media/potion-luck.41150313.png": "/WebDev-Test-1/static/media/potion-luck.41150313.png",
+    "static/media/potion-sight.0ef5822a.png": "/WebDev-Test-1/static/media/potion-sight.0ef5822a.png",
+    "static/media/potions-shop-inside.79f3dbd1.jpg": "/WebDev-Test-1/static/media/potions-shop-inside.79f3dbd1.jpg",
+    "static/media/potions-shop.85a3d4cc.jpg": "/WebDev-Test-1/static/media/potions-shop.85a3d4cc.jpg",
+    "static/media/potions-shop2.38138bf2.jpg": "/WebDev-Test-1/static/media/potions-shop2.38138bf2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.440d335c.js",
+    "static/js/2.1160409a.chunk.js",
+    "static/css/main.ad5b569c.chunk.css",
+    "static/js/main.dddeb22b.chunk.js"
+  ]
+}
