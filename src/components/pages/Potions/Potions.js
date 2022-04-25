@@ -68,8 +68,7 @@ function Potions() {
         
         <div className='potionsPage'>
             
-            <ListaPotionsAPI/> 
-
+            {/*<ListaPotionsAPI/>*/}
             <Potion potName='Poção da invisibilidade' potDesc='Com essa poção você pode se tornar innvisivel por algumas horas' img={potSight}/>
             <Potion potName='Poção da cura do pé de sapo' potDesc='Com essa poção você pode se curar do pé de sapo' img={potFrog}/>
             <Potion potName='Poção da Fortuna' potDesc='Com essa poção você irá aumentar a quantidade de dinheiro recebida' img={potFortun}/>

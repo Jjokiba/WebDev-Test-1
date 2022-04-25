@@ -1,5 +1,6 @@
 .history-page {
     background-color: rgb(124, 124, 124);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgb(47 39 106) 54%, rgb(153 88 148) 137%);
     width: 100%;
     height: auto;
     display: flex;
